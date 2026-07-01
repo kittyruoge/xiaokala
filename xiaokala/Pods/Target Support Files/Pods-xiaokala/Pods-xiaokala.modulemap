@@ -1,6 +1,0 @@
-framework module Pods_xiaokala {
-  umbrella header "Pods-xiaokala-umbrella.h"
-
-  export *
-  module * { export * }
-}
