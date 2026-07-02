@@ -1,0 +1,9 @@
+
+use_frameworks!
+
+target 'xiaokala' do
+  # Comment the next line if you don't want to use dynamic frameworks
+
+
+
+end
